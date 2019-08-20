@@ -2,5 +2,4 @@
 
 vrml block building prototype.
 
-![blocks](./blocks-simple-original/blocks.jpg)
-
+(https://splace.github.io/3d/2003/blocks/)
